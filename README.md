@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there, I am Bijay and Welcome to my profile 👋
 
-- 🔭 I’m currently working on beginner level DS and ML projects
 - 🌱 I’m currently learning how to use ML and DS to solve problems
 - 🤔 I’m looking for help with cracking ML internships
-- 📫 How to reach me: `Gmail: hawkeyesniper69@gmail.com` `LinkedIn: Bijay Kumar Pachhai`
-- ⚡ Fun fact: coming from non-CS background, there's alot going right now.
+- 📫 How to reach me: `Gmail: vijay.pachhaibt@gmail.com` `LinkedIn: Bijay Kumar Pachhai`
+- ⚡ Fun fact: coming from non-CS background, there's alot going right now. 
+- 🔭 Check out my blogs at [Hashnode](https://bijay07.hashnode.dev/)
 
 
 
