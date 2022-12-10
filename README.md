@@ -1,9 +1,9 @@
 ## Hi there, I am Bijay and Welcome to my profile 👋
 
-- 🌱 I’m currently learning how to use ML and DS to solve problems
-- 🤔 I’m looking for help with cracking ML internships
+- 🌱 I’m currently learning how to build data infrastructure.
+- 🤔 I’m looking for help with cracking internships in data.
 - 📫 How to reach me: `Gmail: vijay.pachhaibt@gmail.com` `LinkedIn: Bijay Kumar Pachhai`
-- ⚡ Fun fact: coming from non-CS background, there's alot going right now. 
+- ⚡ Fun fact: coming from non-CS background, there's alot going on right now. 
 - 🔭 Check out my blogs at [Hashnode](https://bijay07.hashnode.dev/)
 
 
