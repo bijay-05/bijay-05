@@ -1,7 +1,7 @@
 ## Hi there, I am Bijay and Welcome to my profile 👋
 
 - 🌱 I’m currently learning different tools in the DevOps realm.
-- 🤔 I’m looking for help with cracking internships.
+- 🤔 Team player, empathetic and a bit sarcastic.
 - 📫 How to reach me: `Gmail: vijay.pachhaibt@gmail.com` `LinkedIn: Bijay Kumar Pachhai`
 - ⚡ Fun fact: coming from non-CS background, there's alot going on right now. 
 - 🔭 Check out my blogs at [Hashnode](https://bijay07.hashnode.dev/)
